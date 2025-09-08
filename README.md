@@ -1,1 +1,1 @@
-# digital_game_development_UFMG
+# Digital Game Development - UFMG
