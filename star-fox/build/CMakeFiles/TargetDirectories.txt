@@ -1,0 +1,3 @@
+/home/nicolasvondolinger/codes/tp4-star-fox-nicolasvondolinger/build/CMakeFiles/tp4-star-fox.dir
+/home/nicolasvondolinger/codes/tp4-star-fox-nicolasvondolinger/build/CMakeFiles/edit_cache.dir
+/home/nicolasvondolinger/codes/tp4-star-fox-nicolasvondolinger/build/CMakeFiles/rebuild_cache.dir
